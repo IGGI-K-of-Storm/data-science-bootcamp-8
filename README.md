@@ -17,4 +17,4 @@ I learn a lot of stuff related to dta science skills. This bootcamp has 10 sprin
 - Essential Python for Data Analyst
 - Dashboard
 
-
+You can find me on linkin: https://linktr.ee/pattara.b
